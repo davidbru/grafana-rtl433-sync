@@ -2,7 +2,7 @@
 
 BASEDIR=/home/plex/Documents/Scripts/TemperatureFlat/
 LOGFILE=${BASEDIR}log.json
-LOGDURATION=60
+LOGDURATION=120
 
 
 # remove old logfiles if it exists and recreate a new empty one
